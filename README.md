@@ -17,8 +17,8 @@ I am currently pursuing my Bachelors in Technology in Computer Science and Engin
 
 📈 My CP Stats
 
-[![CodeforcesBadge](https://cp-logo.vercel.app/codeforces/riyak09)]
-[![CodechefBadge](https://cp-logo.vercel.app/codechef/riya_k09)]
+![CodeforcesBadge](https://cp-logo.vercel.app/codeforces/riyak09)
+![CodechefBadge](https://cp-logo.vercel.app/codechef/riya_k09)
 
  
 📈 My GitHub Stats
